@@ -1,12 +1,10 @@
 ## Introduction (Round 0)
-
-Remove this line before submitting : To Refer a filled sample of this template visit here : <br> http://vlabs.iitb.ac.in/gitlab/Community-Docs/New-Lab-development/Samples
 <br>
 
-<b>Discipline | <b>Type Name of Discpline  to which lab belongs
+<b>Discipline | <b>CSE
 :--|:--|
-<b> Lab | <b> Type name of the lab
-<b> Experiment|     <b> 1. (enter the correct experiment number) Name of the experiment
+<b> Lab | <b> Data Structure
+<b> Experiment|     <b> 1. Insertion Sort
 
 <h5> About the Lab (Objective) : </h5>
 
